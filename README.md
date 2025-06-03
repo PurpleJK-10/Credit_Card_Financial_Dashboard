@@ -7,6 +7,7 @@ MySQL (Data Structuring, Querying)
 Excel/CSV (Data Source Preparation)
 
 📊 Project Highlights
+
 🔧 Data Preparation
 Imported and structured multiple CSV files into a MySQL database.
 Created normalized tables for transactions and customer data to ensure efficient querying and modeling.
